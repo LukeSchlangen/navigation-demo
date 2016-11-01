@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Navigation Demo
 This is a quick demonstration of navigation and git
 
@@ -13,3 +14,5 @@ This is an ordered list
 1. Item One
 2. Item Two
 3. Item Three
+=======
+>>>>>>> parent of ad941d8... Adding awesome words to README.md
